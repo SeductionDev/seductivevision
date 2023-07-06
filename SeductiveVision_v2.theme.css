@@ -55,6 +55,7 @@
   --members-width: 240px; /* member list width [default: 240px] */
   --unread-notification: #FF10F0; /* NEW notification bubble next to server icons */
   --speaking-user-highlight: #FF10F0; /* NEW avatar and name highlight when user is speaking */
+  --interactive-active: var(--unread-notification); /* NEW active/clicked channel and channel text color with unread notifications */
 
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
